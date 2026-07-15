@@ -111,3 +111,10 @@ The dashboard includes several interactive capabilities:
 5. Several weeks performed above the annual average for both sales and profit, while underperforming weeks may indicate seasonal slowdowns or operational opportunities.
 6. A smaller group of repeat customers accounted for multiple purchases, highlighting the importance of customer loyalty initiatives.
 7. The total number of customers increased year-over-year, reflecting successful customer acquisition efforts.
+
+## Business Recommendations
+1. Revenue Growth : Increase investment in high-performing products, particularly the Copiers subcategory, through targeted promotions and strategic inventory planning to maximize profit.
+2. Customer Strategy : Develop customer retention initiatives focused on high-value customers while identifying characteristics shared by top-profit customers to support acquisition of similar customer segments.
+3. Seasonal Planning : Align marketing campaigns and inventory planning with seasonal demand, especially ahead of November, to capitalize on historical sales peaks.
+4. Product Portfolio Optimization : Evaluate underperforming product subcategories to determine whether pricing adjustments, promotional campaigns, or product rationalization could improve profitability.
+5. Performance Monitoring :Track weekly sales and profit trends to detect performance fluctuations early and enable timely business interventions.
